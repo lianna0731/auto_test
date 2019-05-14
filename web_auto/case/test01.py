@@ -8,4 +8,4 @@ class Add(unittest.TestCase):
     def test_add(self):
         self.a=1
         self.b=2
-        print(self.a+self.b)
+        print(self.a+self.b+"测试")
